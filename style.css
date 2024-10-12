@@ -1,0 +1,18 @@
+/* THIS IS CSS COMMENT */
+/* CTRL / * /
+/* CURLY BRACES {} */
+
+h1{
+    color: black;
+    text-decoration: underline; 
+}
+
+.p01 {
+    color: blue;
+}
+.P02 {
+    color: red;
+}
+.p03{
+    color: green;
+}
